@@ -1,0 +1,94 @@
+{
+  "pageProps": {
+    "page": {
+      "page_title": "Mentions légales",
+      "page_content": [
+        {
+          "type": "paragraph",
+          "text": "Conformément aux dispositions de la loi n° 2004-575 du 21 juin 2004 pour la confiance en l'économie numérique, il est précisé aux utilisateurs du site Projart l'identité des différents intervenants dans le cadre de sa réalisation et de son suivi.",
+          "spans": []
+        },
+        {
+          "type": "heading2",
+          "text": "Edition du site ",
+          "spans": [{ "start": 0, "end": 16, "type": "strong" }]
+        },
+        {
+          "type": "paragraph",
+          "text": "Le présent site, accessible à l’URL www.projart.fr (le « Site »), est édité par :",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "Projart, société au capital de 2000 euros, inscrite au R.C.S. de COLMAR sous le numéro Colmar B 808 632 673, dont le siège social est situé au 21 A rue des chevaliers, 67600 SELESTAT, représenté(e) par Sarah MARC dûment habilité(e).",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "Le numéro individuel TVA de l’éditeur est : FR05808632673.",
+          "spans": []
+        },
+        {
+          "type": "heading2",
+          "text": "Hébergement",
+          "spans": [{ "start": 0, "end": 11, "type": "strong" }]
+        },
+        {
+          "type": "paragraph",
+          "text": "Le Site est hébergé par la société Vercel, situé 440 N Barranca Ave #4133 - Covina, CA 91723, (contact téléphonique ou email : +33909090909).",
+          "spans": []
+        },
+        {
+          "type": "heading2",
+          "text": "Directeur de publication ",
+          "spans": [{ "start": 0, "end": 25, "type": "strong" }]
+        },
+        {
+          "type": "paragraph",
+          "text": "Le Directeur de la publication du Site est Sarah MARC.",
+          "spans": []
+        },
+        {
+          "type": "heading2",
+          "text": "Nous contacter ",
+          "spans": [{ "start": 0, "end": 15, "type": "strong" }]
+        },
+        {
+          "type": "list-item",
+          "text": "Par téléphone : +33388858950",
+          "spans": []
+        },
+        {
+          "type": "list-item",
+          "text": "Par email : contact@projart.fr",
+          "spans": []
+        },
+        {
+          "type": "list-item",
+          "text": "Par courrier : 21A Rue des Chevaliers, 67600 Sélestat",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "Génération des mentions légales par Legalstart.",
+          "spans": [
+            {
+              "start": 36,
+              "end": 46,
+              "type": "hyperlink",
+              "data": {
+                "link_type": "Web",
+                "url": "https://www.legalstart.fr/"
+              }
+            }
+          ]
+        }
+      ],
+      "seo_title": null,
+      "seo_description": null,
+      "seo_image": { "opengraph": {} },
+      "uid": "mentions-legales"
+    }
+  },
+  "__N_SSG": true
+}
